@@ -1,0 +1,116 @@
+2026-11-09 19:46:37,914 - INFO - Starting GET all users test
+2026-11-09 19:46:38,534 - INFO - Response Status: 200
+2026-11-09 19:46:38,534 - INFO - GET all users test passed
+2026-11-09 19:46:38,541 - INFO - Starting negative GET test
+2026-11-09 19:46:39,152 - INFO - Negative GET test passed
+2026-11-09 19:48:49,192 - INFO - Starting GET all users test
+2026-11-09 19:48:49,918 - INFO - Response Status: 200
+2026-11-09 19:48:49,918 - INFO - GET all users test passed
+2026-11-09 19:48:49,922 - INFO - Starting negative GET test
+2026-11-09 19:48:50,539 - INFO - Negative GET test passed
+2026-11-09 19:56:59,679 - INFO - Starting GET all users test
+2026-11-09 19:57:00,427 - INFO - GET all users test passed
+2026-11-09 19:57:00,434 - INFO - Starting negative GET test
+2026-11-09 19:57:01,007 - INFO - Negative GET test passed
+2026-11-09 19:58:26,691 - INFO - Starting POST test
+2026-11-09 19:58:27,465 - INFO - POST test passed
+2026-11-09 19:58:27,465 - INFO - Starting DELETE test
+2026-11-09 19:58:28,232 - INFO - DELETE test passed
+2026-11-09 19:58:28,232 - INFO - Starting GET all users test
+2026-11-09 19:58:28,732 - INFO - GET all users test passed
+2026-11-09 19:58:28,751 - INFO - Starting negative GET test
+2026-11-09 19:58:29,298 - INFO - Negative GET test passed
+2026-11-09 19:58:29,313 - INFO - Starting PUT test
+2026-11-09 19:58:30,006 - INFO - PUT test passed
+2026-11-09 19:59:12,152 - INFO - Starting POST test
+2026-11-09 19:59:15,409 - INFO - POST test passed
+2026-11-09 19:59:15,425 - INFO - Starting DELETE test
+2026-11-09 19:59:16,310 - INFO - DELETE test passed
+2026-11-09 19:59:16,325 - INFO - Testing user ID: 1
+2026-11-09 19:59:17,057 - INFO - User ID 1 test passed
+2026-11-09 19:59:17,074 - INFO - Testing user ID: 2
+2026-11-09 19:59:17,708 - INFO - User ID 2 test passed
+2026-11-09 19:59:17,708 - INFO - Testing user ID: 3
+2026-11-09 19:59:18,376 - INFO - User ID 3 test passed
+2026-11-09 19:59:18,380 - INFO - Testing user ID: 4
+2026-11-09 19:59:18,975 - INFO - User ID 4 test passed
+2026-11-09 19:59:18,992 - INFO - Testing user ID: 5
+2026-11-09 19:59:19,689 - INFO - User ID 5 test passed
+2026-11-09 19:59:19,705 - INFO - Starting PUT test
+2026-11-09 19:59:20,461 - INFO - PUT test passed
+2026-11-09 20:00:35,963 - INFO - Starting POST test
+2026-11-09 20:00:36,754 - INFO - POST test passed
+2026-11-09 20:00:36,758 - INFO - Starting DELETE test
+2026-11-09 20:00:37,361 - INFO - DELETE test passed
+2026-11-09 20:00:37,366 - INFO - Testing user ID: 1
+2026-11-09 20:00:38,197 - INFO - User ID 1 test passed
+2026-11-09 20:00:38,204 - INFO - Testing user ID: 2
+2026-11-09 20:00:38,764 - INFO - User ID 2 test passed
+2026-11-09 20:00:38,768 - INFO - Testing user ID: 3
+2026-11-09 20:00:39,626 - INFO - User ID 3 test passed
+2026-11-09 20:00:39,632 - INFO - Testing user ID: 4
+2026-11-09 20:00:40,423 - INFO - User ID 4 test passed
+2026-11-09 20:00:40,434 - INFO - Testing user ID: 5
+2026-11-09 20:00:40,977 - INFO - User ID 5 test passed
+2026-11-09 20:00:40,982 - INFO - Starting PUT test
+2026-11-09 20:00:41,598 - INFO - PUT test passed
+2026-11-09 20:01:28,297 - INFO - Starting POST test
+2026-11-09 20:01:29,202 - INFO - POST test passed
+2026-11-09 20:01:29,218 - INFO - Starting DELETE test
+2026-11-09 20:01:29,949 - INFO - DELETE test passed
+2026-11-09 20:01:29,955 - INFO - Starting GET all users test
+2026-11-09 20:01:30,685 - INFO - GET all users test passed
+2026-11-09 20:01:30,693 - INFO - Starting negative GET test
+2026-11-09 20:01:31,272 - INFO - Negative GET test passed
+2026-11-09 20:01:31,275 - INFO - Testing user ID: 1
+2026-11-09 20:01:31,778 - INFO - User ID 1 test passed
+2026-11-09 20:01:31,796 - INFO - Testing user ID: 2
+2026-11-09 20:01:32,427 - INFO - User ID 2 test passed
+2026-11-09 20:01:32,433 - INFO - Testing user ID: 3
+2026-11-09 20:01:32,957 - INFO - User ID 3 test passed
+2026-11-09 20:01:32,957 - INFO - Testing user ID: 4
+2026-11-09 20:01:33,573 - INFO - User ID 4 test passed
+2026-11-09 20:01:33,573 - INFO - Testing user ID: 5
+2026-11-09 20:01:34,345 - INFO - User ID 5 test passed
+2026-11-09 20:01:34,345 - INFO - Starting PUT test
+2026-11-09 20:01:36,286 - INFO - PUT test passed
+2026-11-09 20:02:50,798 - INFO - Starting POST test
+2026-11-09 20:02:51,547 - INFO - POST test passed
+2026-11-09 20:02:51,564 - INFO - Starting DELETE test
+2026-11-09 20:02:52,260 - INFO - DELETE test passed
+2026-11-09 20:02:52,264 - INFO - Starting GET all users test
+2026-11-09 20:02:56,781 - INFO - GET all users test passed
+2026-11-09 20:02:56,792 - INFO - Starting negative GET test
+2026-11-09 20:02:57,874 - INFO - Negative GET test passed
+2026-11-09 20:02:57,874 - INFO - Testing user ID: 1
+2026-11-09 20:02:58,395 - INFO - User ID 1 test passed
+2026-11-09 20:02:58,399 - INFO - Testing user ID: 2
+2026-11-09 20:02:58,888 - INFO - User ID 2 test passed
+2026-11-09 20:02:58,888 - INFO - Testing user ID: 3
+2026-11-09 20:02:59,411 - INFO - User ID 3 test passed
+2026-11-09 20:02:59,415 - INFO - Testing user ID: 4
+2026-11-09 20:02:59,940 - INFO - User ID 4 test passed
+2026-11-09 20:02:59,945 - INFO - Testing user ID: 5
+2026-11-09 20:03:01,435 - INFO - User ID 5 test passed
+2026-11-09 20:03:01,435 - INFO - Starting PUT test
+2026-11-09 20:03:02,139 - INFO - PUT test passed
+2026-11-09 20:03:21,387 - INFO - Starting POST test
+2026-11-09 20:03:22,050 - INFO - POST test passed
+2026-11-09 20:03:22,056 - INFO - Starting DELETE test
+2026-11-09 20:03:22,832 - INFO - DELETE test passed
+2026-11-09 20:03:22,841 - INFO - Starting GET all users test
+2026-11-09 20:03:23,593 - INFO - GET all users test passed
+2026-11-09 20:03:23,597 - INFO - Starting negative GET test
+2026-11-09 20:03:28,589 - INFO - Negative GET test passed
+2026-11-09 20:03:28,593 - INFO - Testing user ID: 1
+2026-11-09 20:03:29,490 - INFO - User ID 1 test passed
+2026-11-09 20:03:29,494 - INFO - Testing user ID: 2
+2026-11-09 20:03:30,029 - INFO - User ID 2 test passed
+2026-11-09 20:03:30,046 - INFO - Testing user ID: 3
+2026-11-09 20:03:30,586 - INFO - User ID 3 test passed
+2026-11-09 20:03:30,591 - INFO - Testing user ID: 4
+2026-11-09 20:03:31,125 - INFO - User ID 4 test passed
+2026-11-09 20:03:31,129 - INFO - Testing user ID: 5
+2026-11-09 20:03:31,658 - INFO - User ID 5 test passed
+2026-11-09 20:03:31,658 - INFO - Starting PUT test
+2026-11-09 20:03:32,389 - INFO - PUT test passed
